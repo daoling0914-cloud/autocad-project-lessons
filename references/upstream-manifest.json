@@ -1,0 +1,143 @@
+{
+  "source_repository": "https://github.com/earthtojake/text-to-cad",
+  "snapshot_date": "2026-11-11",
+  "source": "locally installed skills; no upstream commit claimed",
+  "files": [
+    {
+      "upstream_skill": "cad",
+      "source": "SKILL.md",
+      "bundled": "references/upstream/cad/guide.md",
+      "original_sha256": "0b5a987fb2b31a7af4a781affaeef0695c09331b7aa6912ebc322ad2d8c8623b",
+      "bundled_sha256": "0b5a987fb2b31a7af4a781affaeef0695c09331b7aa6912ebc322ad2d8c8623b",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "LICENSE",
+      "bundled": "references/upstream/cad/LICENSE",
+      "original_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "bundled_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/animation.md",
+      "bundled": "references/upstream/cad/references/animation.md",
+      "original_sha256": "3334ed78249332b575b9f2bd33fac70698edeab17af65c7f39604b7252b85169",
+      "bundled_sha256": "6a4facdd7e1d4ac1d5eb62cf073794b5c60300989d0a8b823716c22eca4f68f1",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/build123d-modeling.md",
+      "bundled": "references/upstream/cad/references/build123d-modeling.md",
+      "original_sha256": "7561c30be25975ccf913fb31f983eb6538bdb741914c3a92934f71bfd3a809ac",
+      "bundled_sha256": "7561c30be25975ccf913fb31f983eb6538bdb741914c3a92934f71bfd3a809ac",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/exports.md",
+      "bundled": "references/upstream/cad/references/exports.md",
+      "original_sha256": "86900b46d3cefafdadfe17c470b02cde875f59a10ff6fba37af216ff83e69ff2",
+      "bundled_sha256": "2bb80e212e7b749a7f85eefc6e48d0af2b62b56c18a34a786437b616472419cf",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/inspection-and-validation.md",
+      "bundled": "references/upstream/cad/references/inspection-and-validation.md",
+      "original_sha256": "07a9794a447e2ac4653a858d599d1e7a3856254c6cbeec91fef1a5a53f1be8f2",
+      "bundled_sha256": "f3d8af12a4e14c15cfba1d7703fe083f73f2be6a6541d45ff43fa8a41f3f1956",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/kinematics.md",
+      "bundled": "references/upstream/cad/references/kinematics.md",
+      "original_sha256": "239b130182f523f9ff38d0ec50967351f174e0eecf4beb23c60d76688091f35a",
+      "bundled_sha256": "239b130182f523f9ff38d0ec50967351f174e0eecf4beb23c60d76688091f35a",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/model-contract.md",
+      "bundled": "references/upstream/cad/references/model-contract.md",
+      "original_sha256": "1e207b12fe9be80ec0178b18fe744a4d9fcdfb785d86374fdacf91836193a625",
+      "bundled_sha256": "1e207b12fe9be80ec0178b18fe744a4d9fcdfb785d86374fdacf91836193a625",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/positioning.md",
+      "bundled": "references/upstream/cad/references/positioning.md",
+      "original_sha256": "9c5db9d87db6da6c2ad28b06b657ca78a5b7b140c7bf5a81eab9588379515893",
+      "bundled_sha256": "9c5db9d87db6da6c2ad28b06b657ca78a5b7b140c7bf5a81eab9588379515893",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/project-layout.md",
+      "bundled": "references/upstream/cad/references/project-layout.md",
+      "original_sha256": "1ea9ba0780cef05d47bb3c4189103c19cb5e43418575ce2f4f41204a22b58ff8",
+      "bundled_sha256": "1ea9ba0780cef05d47bb3c4189103c19cb5e43418575ce2f4f41204a22b58ff8",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "cad",
+      "source": "references/snapshot-review.md",
+      "bundled": "references/upstream/cad/references/snapshot-review.md",
+      "original_sha256": "d33ab9944c55f7e3b802309fc2f3bb287828644d0ed36a644f18ff4cc8384e51",
+      "bundled_sha256": "aa8e038207f8535af42685e73fdc6067e7aa193955406455ea56c2ef020e3354",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "dxf",
+      "source": "SKILL.md",
+      "bundled": "references/upstream/dxf/guide.md",
+      "original_sha256": "8298a03be3d32333938228bbcd9217c487e33a052ab4b1acd97d003e12e4ce21",
+      "bundled_sha256": "8298a03be3d32333938228bbcd9217c487e33a052ab4b1acd97d003e12e4ce21",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "dxf",
+      "source": "LICENSE",
+      "bundled": "references/upstream/dxf/LICENSE",
+      "original_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "bundled_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "dxf",
+      "source": "references/generator-templates.md",
+      "bundled": "references/upstream/dxf/references/generator-templates.md",
+      "original_sha256": "d6c316a3e4db7d90c88009a4a8e39f50b92f1b992084a0b2bb0ecba4dca8dbf9",
+      "bundled_sha256": "d6c316a3e4db7d90c88009a4a8e39f50b92f1b992084a0b2bb0ecba4dca8dbf9",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "engineering-drawing",
+      "source": "SKILL.md",
+      "bundled": "references/upstream/engineering-drawing/guide.md",
+      "original_sha256": "694e4ea2d10e3638ef81267a34f18bc221d9b2a74f92d44842c1431feef5edc3",
+      "bundled_sha256": "694e4ea2d10e3638ef81267a34f18bc221d9b2a74f92d44842c1431feef5edc3",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "engineering-drawing",
+      "source": "LICENSE",
+      "bundled": "references/upstream/engineering-drawing/LICENSE",
+      "original_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "bundled_sha256": "c11168234f932c4a39bb640571079e73b178b4459682a5507e5944ad723058b3",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    },
+    {
+      "upstream_skill": "engineering-drawing",
+      "source": "references/sheet-api.md",
+      "bundled": "references/upstream/engineering-drawing/references/sheet-api.md",
+      "original_sha256": "5f84c4f862e90b227e659cacd4745c5d3d5b3f86261e55301e47b0cf68b4a2b0",
+      "bundled_sha256": "5f84c4f862e90b227e659cacd4745c5d3d5b3f86261e55301e47b0cf68b4a2b0",
+      "adaptation": "entrypoint renamed guide.md; internal parent SKILL.md links rewritten when present"
+    }
+  ]
+}

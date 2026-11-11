@@ -1,0 +1,12 @@
+{
+  "description": "仅为填写示例；替换成任务书要求和实际文件。相对路径以此清单所在目录为基准。",
+  "tasks": [
+    {"id": "task-01-template", "pdf": "delivery/task-01.pdf", "pages": 1, "paper_mm": [420, 297]},
+    {"id": "task-02-line-types", "pdf": "delivery/task-02.pdf", "pages": 3, "paper_mm": [420, 297]},
+    {"id": "task-03-dimensions", "pdf": "delivery/task-03.pdf", "pages": 1, "paper_mm": [297, 210]}
+  ],
+  "dwg": [
+    {"path": "delivery/overall.dwg", "version": "2010"}
+  ],
+  "zip": "delivery/task-delivery.zip"
+}

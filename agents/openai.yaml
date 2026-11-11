@@ -1,0 +1,6 @@
+interface:
+  display_name: "CAD 绘图与交付"
+  short_description: "融合参数建模、原生改图、DXF与工程PDF生成，以及项目避坑验收经验"
+  default_prompt: "使用 $autocad-project-lessons 按当前要求完成建模或绘图、修改、导出及相应验收。"
+policy:
+  allow_implicit_invocation: true
